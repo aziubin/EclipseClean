@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Git34785687456837456837465
+Bundle-SymbolicName: git34785687456837456837465;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: git34785687456837456837465.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
